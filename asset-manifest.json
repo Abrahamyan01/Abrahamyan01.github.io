@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b863af6f.css",
+    "main.js": "/static/js/main.1c896667.js",
+    "static/media/big.png": "/static/media/big.6dc34e16392307304912.png",
+    "static/media/slider.png": "/static/media/slider.723539eb497651b4a100.png",
+    "static/media/mapbig.png": "/static/media/mapbig.f57a5245a2f2cfaff0d8.png",
+    "static/media/mastercard.png": "/static/media/mastercard.92bfa8d07933798d0fa0.png",
+    "static/media/visa.png": "/static/media/visa.7aef086e9fd3eb2afc9d.png",
+    "static/media/bgSlider.png": "/static/media/bgSlider.ce4238582d4c84cacd3c.png",
+    "static/media/qimik.png": "/static/media/qimik.9cf6e680379ba3eef30a.png",
+    "static/media/cosmetik.png": "/static/media/cosmetik.ef2aeeeb6149bf2b9578.png",
+    "static/media/forhome.png": "/static/media/forhome.20ed6e25c5fd5cb9724e.png",
+    "static/media/baby.png": "/static/media/baby.bd8d616b805b98e5e34d.png",
+    "static/media/kitchen.png": "/static/media/kitchen.eeffd8c9dc6f5bcb9fa9.png",
+    "index.html": "/index.html",
+    "main.b863af6f.css.map": "/static/css/main.b863af6f.css.map",
+    "main.1c896667.js.map": "/static/js/main.1c896667.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b863af6f.css",
+    "static/js/main.1c896667.js"
+  ]
+}
